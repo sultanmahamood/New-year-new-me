@@ -1,0 +1,107 @@
+.header{
+    
+}
+.banner{
+    text-align: center;
+    color: #FFF;
+    font-family: Merriweather;
+    font-style: normal;
+    background-image: url('../images/banner_bg.png');
+    width: 1320px;
+    height: 600px;
+    margin: 50px 140px;
+    align-items: center;
+    
+}
+.banner_greetings{
+    font-size: 32px;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center;
+    padding-left: 344px;
+}
+.banner_title{
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 95px;
+    width: 632px;
+    text-align: center;
+    padding-left: 344px;
+    padding-top: 233px;
+}
+.body{
+    text-align: center;
+    font-family: Inter;
+    font-style: normal;
+    line-height: normal;
+}
+.sale{
+    color: #F00;
+    font-size: 88px;
+    font-weight: 700;   
+}
+.offer{
+    color: #F00;
+    font-size: 24px;
+    font-weight: 500;
+}
+.body_title{
+    color: #070211;
+    font-size: 48px;
+    font-weight: 700;  
+}
+.invitation{
+    margin-left: 140px;
+}
+.invitation_banner{
+    background-image: url('../images/Vectorrr.png');
+    width: 1320px;
+    height: 600px;
+    display: flex;
+    
+    
+
+}
+.invitation_banner_text{
+    font-style: normal;
+    flex-shrink: 0;
+}
+.invitation_greetings{
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-weight: 900;
+    line-height: 88px;
+    letter-spacing: 7.04px;
+    width: 642px;
+    padding-left: 126px;
+    padding-top: 126px;
+}
+.party_details{
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    width: 697px;
+    padding-left: 126px;
+}
+.join{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    padding-left: 158px;
+}
+.invitation_address{
+    padding: 130px;
+    border-radius: 10px;
+    margin: 130px 0;
+    width: 1320px;
+    flex-shrink: 0;
+    background: pink;
+    text-align: center;
+    
+}
